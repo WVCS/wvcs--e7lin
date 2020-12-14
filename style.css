@@ -27,5 +27,12 @@ li a:hover {
  background-color: #ff9999;
 }
 
+.stuck {
+  background-color: red;
+  position: absolute;
+  border: 3px solid black;
+  right: 50px;
+  top: 8px;
+}
 
 /* this is a comment? */
