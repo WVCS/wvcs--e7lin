@@ -33,6 +33,7 @@ li a:hover {
   border: 3px solid black;
   right: 50px;
   top: 8px;
+ font-size: 14px;
 }
 
 /* this is a comment? */
