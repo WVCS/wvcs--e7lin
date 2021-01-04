@@ -1,13 +1,13 @@
 body{
  margin: 0;
  top: 0;
- background-color: linear-gradient(#c0fad0,#00a69b);;
+ background-color: linear-gradient(#c0fad0,#00a69b);
  text-align: center;
 }
 
 ul{
  list-style-type: none;
- background-color: linear-gradient(#c0fad0,#00a69b);;
+ background-color: linear-gradient(#c0fad0,#00a69b);
  width: 100%;
  top: 0;
  Left: 0;
